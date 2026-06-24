@@ -1,0 +1,9 @@
+sect_id,name,weapon,style,gender_limit,joinable,note
+shaolin,少林寺,棍/杖/拳套,禅武合一刚柔相济,男性only,true,武林泰山北斗内外兼修
+xuanyi,玄一教,玄一剑/太极双剑,道门剑修阴阳五行,无,true,剑道之宗道法之源
+wuyue,五岳剑宗,剑,快慢相间正道剑派,无,true,快剑慢剑剑意合一
+shierdong,十二峒,毒鞭/毒囊,苗疆用毒医毒同源,无,true,万毒归宗蛊术
+tangmen,唐门,飞镖暗器,机关+毒术世袭传承,无,true,爆裂镖毒镖要职唐姓
+daozong,刀宗,刀,高暴击命中偏低,无,true,刀意累积越战越强
+qishamen,七煞门,多样,中立与邪恶边缘,无,false,主线反派势力贯穿主线
+gaibang,丐帮,待定,待定,待定,false,老案预留未填充

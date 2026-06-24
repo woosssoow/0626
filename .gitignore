@@ -1,0 +1,19 @@
+# 老王不想看见的垃圾,统统挡外面
+.DS_Store
+*~
+*.tmp
+
+# Excel 临时锁文件
+~$*.xlsx
+
+# 编辑器
+.vscode/
+.idea/
+
+# Claude Code 本地配置（个人权限设置，不入库）
+.claude/
+
+# 以后有代码了再补 Python/Node 那套
+__pycache__/
+*.pyc
+node_modules/

@@ -1,0 +1,8 @@
+talent_id,name,type,grade,effect,is_default,note
+talent_newbie_body,筋骨尚佳,基础,白,气血上限+2%,true,轻微生存收益不改变流派选择
+talent_newbie_focus,心神沉稳,基础,白,内力上限+2%,true,方便新手释放技能收益可控
+talent_newbie_lucky,初入江湖,基础,白,任务银两奖励+1%,true,轻量经济收益不影响战斗平衡
+talent_str_seed,天生力壮,四维,绿,力道+2,false,后续作随机天赋或剧情奖励
+talent_int_seed,气感敏锐,四维,绿,气劲+2,false,后续作随机天赋或剧情奖励
+talent_con_seed,根基厚实,四维,绿,根骨+2,false,后续作随机天赋或剧情奖励
+talent_dex_seed,身轻如燕,四维,绿,身法+2,false,后续作随机天赋或剧情奖励
